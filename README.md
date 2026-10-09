@@ -37,7 +37,7 @@ Install the following software before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/warrantiq.git
+  https://github.com/varshinimv/AI-Powered-Digital-Warranty-Platform-Service-for-Electrical-items.git
    ```
 
 2. Open the project folder:
