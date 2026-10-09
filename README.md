@@ -37,7 +37,7 @@ Install the following software before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/varshinimv/warrantiq.git
+    https://github.com/varshinimv/warrantiq.git
    ```
 
 2. Open the project folder:
